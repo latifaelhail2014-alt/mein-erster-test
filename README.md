@@ -1,2 +1,2 @@
 # mein-erster-test
-"Hallo Welt, ich lerne Informatik!"
+"Heute habe ich gelernt, eine Datei zi bearbeiten."
